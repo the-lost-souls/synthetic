@@ -1,6 +1,6 @@
 # The Lost Souls - Synthetic (1995)
 
-[![screenshot](https://the-lost-souls.github.io/images/thumbnails/synthetic.jpg)](https://youtu.be/tJvQbS8wOok)
+[![screenshot](https://the-lost-souls.github.io/images/thumbnails/synthetic.png)](https://youtu.be/tJvQbS8wOok)
 
 This is all the source code and material for the demo 'Synthetic' made by The Lost Souls. The demo was released at the Tonstad Party 1995.
 
