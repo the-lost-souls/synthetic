@@ -1,0 +1,22 @@
+Heihei.
+
+       Dette directoriet er bare suppe, men de ferdige ASM-filene ligger
+som SB.ASM og GUS.ASM. Hvis du tasmer/linker dem vil de ikke virke f›r
+du gj›r om filnavnene ›verst i asm-filene. Bare kj›r I.BAT med asm-fila som
+parameter.
+
+SBMSEFile                    -> SB16.MSE /GUS.MSE
+ModuleInfile/ModuleFile      -> HULK.GDM
+
+       I directoriene SB og GUS ligger de ferdigkompilerte exe-filene for
+de forskjellige lydkortene, og med rett filnavn. I DONE ligger den ferdige
+zip-fila som TLS_SYN.ZIP
+
+       Alle PCX-filene til logoer/font osv. ligger her ogs†. Selv om de ikke
+er brukbare til noe.
+
+       Ellers vil jeg bare si at denne introen var stink, og h†per ikke s†
+mange f†r se den.
+
+Cyberfish
+16.10.1995

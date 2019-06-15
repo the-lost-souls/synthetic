@@ -1,0 +1,49 @@
+                               The Lost Souls
+                                  presents
+
+                      ---------- SYNTHETIC -----------
+
+                     released at the Tonstad Party 1995
+
+        Just wanna thank Axon and Hobbes for all help here at this sucking
+party. Also want to thank Ghoul for help on different things, and all those
+other I have bothered with my stupid coding-questions on BBS's.
+
+        Don't like to say it, but this party was very lousy organized! What
+organizers doesn't come up with their own PC to the compo?!? Using the 
+PC of a participator?!?
+        Anyway. The intro was coded for about half a year ago, and I like
+to think I'm capable of something better now. The whole intro is coded in
+assembler, and the routines are very slow.
+
+        To hear the music, you need a Sound Blaster 16 or a GUS. The intro
+can't be run if you don't have a soundcard, but the intro will be even worse
+without music... The module itself is originally a S3M and uses 12 channels.
+Of course it will be slow on a Sound Blaster...
+
+Credits :
+        Music           Kezoomer
+        Graphics        Rex Rawhead, Cyberfish
+        Objects         Kezoomer
+        Coding          Cyberfish
+        Player          BWSB v1.20 by Edward Schlunder
+
+If you'd like to contact us, we can be reached at Sorcerer BBS :
+
+Sorcerer BBS
+TLS World HQ
++47 72 87 28 74
+
+...or snail mail :
+
+Torbj›rn Vik
+Vareggaveien 22
+7094 Lundamo
+Norway
+
+
+
+TLS er qlest!
+
+Cyberfish/TLS
+16.10.1995
